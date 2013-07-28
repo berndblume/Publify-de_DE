@@ -546,7 +546,7 @@ Localization.define("de_DE") do |l|
   l.store "Drag some plugins here to fill your sidebar", "Ziehen Sie Plugins hierher, um sie in die Seitenleiste aufzunehmen"
 
   # app/views/admin/sidebar/index.html.erb
-  l.store "Drag and drop to change the sidebar items displayed on this blog. To remove items from the sidebar just click 'remove'. Changes are saved immediately, but not activated until you click the 'Publish changes' button", "Verwenden Sie Drag&Drop, um die Einträge der Seitenleiste ihres Blogs zu ändern. Um Einträge zu löschen, klicken Sie auf 'remove'. Änderungen sind hier sofort sichtbar, werden aber erst permanent aktiviert, wenn Sie 'Änderungen veröffentlichen' klicken."
+  l.store "Drag and drop to change the sidebar items displayed on this blog. To remove items from the sidebar just click 'remove'. Changes are saved immediately, but not activated until you click the 'Publish changes' button", "Verwenden Sie Drag&Drop, um die Einträge der Seitenleiste ihres Blogs zu ändern. Um Einträge zu löschen, klicken Sie auf 'entfernen'. Änderungen sind hier sofort sichtbar, werden aber erst permanent aktiviert, wenn Sie 'Änderungen veröffentlichen' klicken."
   l.store "Available Items", "Verfügbare Einträge"
   l.store "Active Sidebar items", "Aktive Einträge der Seitenleiste"
   l.store "Get more plugins", "Weitere Plugins finden"
@@ -566,7 +566,7 @@ Localization.define("de_DE") do |l|
   l.store "Show most popular tags for this blog", "Zeige die populärsten Tags für diesen Blog"
   l.store "RSS and Atom feeds", ""
   l.store "XML Syndication", ""
-  l.store "remove", "supprimer"
+  l.store "remove", "entfernen"
 
   # app/views/admin/tags/_form.html.erb
   l.store "Display name", "Anzeigename"
